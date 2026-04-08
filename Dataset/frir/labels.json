@@ -1,0 +1,159 @@
+{
+    "emotion": {
+        "喜悦": {
+            "description": "高兴、愉快或精神上的欢欣",
+            "label_en": "Joy",
+            "description_en": "A feeling of great pleasure and happiness"
+        },
+        "恐惧": {
+            "description": "一种基本而强烈的情绪，由对即将到来的威胁的感知引发，涉及一种即时的警报反应",
+            "label_en": "Fear",
+            "description_en": "A basic and intense emotion triggered by perceived threat, involving an immediate alarm reaction"
+        },
+        "厌恶": {
+            "description": "对某个人或行为有排斥感",
+            "label_en": "Disgust",
+            "description_en": "A feeling of revulsion or strong disapproval toward someone or something"
+        },
+        "信任": {
+            "description": "指对某人或某事可靠性的依赖或信心",
+            "label_en": "Trust",
+            "description_en": "Reliance on the integrity, strength, ability, or character of a person or thing"
+        },
+        "惊讶": {
+            "description": "通常由对预期的违反或对环境中新奇事物的察觉引发",
+            "label_en": "Surprise",
+            "description_en": "A feeling of mild astonishment or shock caused by something unexpected"
+        },
+        "悲伤": {
+            "description": "一种不愉快的情绪状态，其强度可从轻微到极端不等，通常由失去某个高度重视的事物引发",
+            "label_en": "Sadness",
+            "description_en": "An unpleasant emotional state ranging from mild to extreme, typically caused by loss"
+        },
+        "期待": {
+            "description": "一种面向未来事件或状态的心理状态",
+            "label_en": "Anticipation",
+            "description_en": "A state of looking forward to a future event or condition"
+        },
+        "愤怒": {
+            "description": "因挫折、他人的真实或想象伤害，或感知到的不公而产生的紧张与敌意",
+            "label_en": "Anger",
+            "description_en": "A strong feeling of annoyance, displeasure, or hostility due to frustration or perceived injustice"
+        },
+        "中性": {
+            "description": "未表现出明显的情绪倾向",
+            "label_en": "Neutral",
+            "description_en": "Not showing any clear emotional tendency"
+        }
+    },
+    "thinking": {
+        "types": {
+            "直觉型": {
+                "description": "系统1思维：快速、自动、直觉化、情绪化，依赖经验和启发式规则",
+                "label_en": "Intuitive",
+                "description_en": "System 1 thinking: Fast, automatic, intuitive, emotional, relying on experience and heuristics"
+            },
+            "分析型": {
+                "description": "系统2思维：缓慢、努力、逻辑性、分析性，需有意识投入认知资源",
+                "label_en": "Analytical",
+                "description_en": "System 2 thinking: Slow, effortful, logical, analytical, requiring conscious cognitive resources"
+            }
+        },
+        "values": {
+            "主观评价": {
+                "description": "过度自信效应：人的心智在自认为充分理解一件事情时，会产生非理性的自信",
+                "label_en": "Subjective Evaluation",
+                "description_en": "Overconfidence effect: People's minds develop irrational confidence when they believe they fully understand something"
+            },
+            "认同驱动的顺应": {
+                "description": "社会认同理论：人们会将自己与某个群体或权威人物联系起来，从而认同该群体的价值观或态度",
+                "label_en": "Identity-driven Conformity",
+                "description_en": "Social identity theory: People connect themselves with certain groups or authority figures, thereby adopting their values or attitudes"
+            },
+            "情绪化判断": {
+                "description": "情绪即信息：人们在判断和决策时会倾向于把当前的情绪状态当作关于外部环境的有效信息来源",
+                "label_en": "Emotional Judgment",
+                "description_en": "Emotions as information: People tend to use their current emotional state as a valid source of information about the external environment when making judgments and decisions"
+            },
+            "基于经验": {
+                "description": "可得性捷思：人们在讨论一个特定的主题、概念、方法或做出决定时，依赖于脑海中直接浮现的例子",
+                "label_en": "Experience-based",
+                "description_en": "Availability heuristic: People rely on examples that immediately come to mind when discussing a specific topic, concept, method, or making decisions"
+            },
+            "逻辑": {
+                "description": "个体在判断或决策中能够根据前提和规则进行系统化推理，从而得出合理且逻辑必然的结论",
+                "label_en": "Logical",
+                "description_en": "Individuals can systematically reason based on premises and rules in judgment or decision-making, leading to reasonable and logically necessary conclusions"
+            },
+            "权衡": {
+                "description": "分析、比较各种选择的利益与效用，之后对于较高的效用与利益显示出偏好，并作为行为的根据",
+                "label_en": "Balanced Consideration",
+                "description_en": "Analyze and compare the benefits and utilities of various choices, then show preference for higher utility and benefit as the basis for behavior"
+            },
+            "循证": {
+                "description": "双重加工理论中系统2特点: 有意识投入认知资源，对信息进行评估和整合",
+                "label_en": "Evidence-based",
+                "description_en": "Dual-process theory System 2 characteristics: Consciously invest cognitive resources to evaluate and integrate information"
+            },
+            "批判": {
+                "description": "以反思性、系统性和理性的方式分析、评估自己的思维和外部信息，从而做出更可靠、合理的判断与决策",
+                "label_en": "Critical",
+                "description_en": "Analyze and evaluate one's own thinking and external information in a reflective, systematic, and rational manner to make more reliable and reasonable judgments and decisions"
+            }
+        }
+    },
+    "intent": {
+        "信息分享": {
+            "description": "阐述类：提供事实或个人经历，传递信息",
+            "label_en": "Information Sharing",
+            "description_en": "Expository: Providing facts or personal experiences to convey information"
+        },
+        "表达主张": {
+            "description": "阐述类：表达观点或明确立场，展示说话者的判断",
+            "label_en": "Opinion Expression",
+            "description_en": "Expository: Expressing views or clear positions, demonstrating the speaker's judgment"
+        },
+        "认同与联结": {
+            "description": "表达类：表达对他人观点或行为的积极态度（认同、支持、感谢）",
+            "label_en": "Identity & Connection",
+            "description_en": "Expressive: Expressing positive attitudes toward others' views or behaviors (identification, support, gratitude)"
+        },
+        "分歧与冲突": {
+            "description": "表达类：表达对他人观点或行为的不认同、否定、批评、讽刺",
+            "label_en": "Disagreement & Conflict",
+            "description_en": "Expressive: Expressing disagreement with, negation of, criticism of, or sarcasm toward others' views or behaviors"
+        },
+        "情感表达": {
+            "description": "表达类：直接通过语言表露说话者的情感状态",
+            "label_en": "Emotional Expression",
+            "description_en": "Expressive: Directly revealing the speaker's emotional state through language"
+        },
+        "寻求信息": {
+            "description": "指令类：通过提问或请求获取信息或他人观点",
+            "label_en": "Information Seeking",
+            "description_en": "Directive: Obtaining information or others' views through questions or requests"
+        },
+        "号召行动": {
+            "description": "指令类：指令或倡议促使他人采取行动",
+            "label_en": "Call to Action",
+            "description_en": "Directive: Instructing or urging others to take action"
+        }
+    },
+    "stance": {
+        "支持降息": {
+            "description": "认为美联储应该降低利率",
+            "label_en": "Support interest rate cuts",
+            "description_en": "It is believed that the Federal Reserve should lower interest rates"
+        },
+        "反对降息": {
+            "description": "认为美联储不应降息",
+            "label_en": "Oppose interest rate cuts",
+            "description_en": "It is believed that the Federal Reserve should not cut interest rates"
+        },
+        "不明确": {
+            "description": "未体现对美联储是否应降息的清晰态度或无法判断观点",
+            "label_en": "Unclear",
+            "description_en": "No clear stance on whether the Federal Reserve should cut interest rates is reflected, or the viewpoint is impossible to judge"
+        }
+    }
+}

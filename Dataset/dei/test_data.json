@@ -1,0 +1,3669 @@
+[
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 12,
+    "timestep": "2025-05-13T17:22:30+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "啊哈，又来了。否认数学，愚蠢的黑人真他妈好笑，笑死我了。",
+    "target_post": "你的假设是他们中有聪明的黑人？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 0
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 7,
+    "timestep": "2025-05-13T14:57:53+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "闭嘴吧，白领福利的白人比黑人还多，这说法早站不住脚了。",
+    "target_post": "不是人均，那是错误的，按人均计算黑人几乎是3倍。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "分歧与冲突"
+    },
+    "序号": 1
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 11,
+    "timestep": "2025-05-13T17:21:46+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "不，他们入侵后征服了当地人，建立资源开采体系，将大部分资源运回本土，剩余的用于当地建设。原住民对此毫无发言权，从此陷入长期贫困。",
+    "target_post": "原住民一直生活在贫困中，他们始终住在简陋的茅草屋里，直到我们教会他们如何建造房屋。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 2
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 6,
+    "timestep": "2025-05-13T14:55:50+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "你给黑人社区投过什么钱？",
+    "target_post": "难……难道你们没听说过福利制度吗？？你们知道白人缴了大部分税款对吧？？？？？？？？？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "惊讶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 3
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 8,
+    "timestep": "2025-05-13T15:01:44+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "你们的依据在哪里？",
+    "target_post": "我知道数学难是因为你脑子小，但好歹试试。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 4
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 4,
+    "timestep": "2025-05-13T14:49:30+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "哦豁，我他妈随便谷歌两秒就找到11个这玩意儿，你们这样活着到底图啥？这简直是世界上最可悲的生存方式了。求求你们去参加点本地社区的社交活动吧。真心求你们了。",
+    "target_post": "这不是他问的，给我看一个黑人发明的、改变了社会的东西..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "寻求信息"
+    },
+    "序号": 5
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 15,
+    "timestep": "2025-05-13T17:46:04+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "如果你会读的话，就该知道你发的东西恰恰证明了我们的观点。",
+    "target_post": "“但是，但是这些数字是有原因的” 好啊，那在1960年黑人拥有的企业比现在多300%的时候，这个原因在哪？黑人教堂出席率高出700%的时候呢？黑人单亲母亲比例低50%的时候呢？？那时候压迫在哪压制他们了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "分歧与冲突"
+    },
+    "序号": 6
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 9,
+    "timestep": "2025-05-13T15:04:05+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "他们不存在是因为欧洲人掠夺了他们的大陆，抢走了所有资源，所以没错，他们他妈的就是有先发优势，伙计。",
+    "target_post": "等等，那些来到小木屋并建起整座城市的人，反而是问题所在？那些闯进来创建了整个他妈国家的人？？？？真的吗？？？？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "情感表达"
+    },
+    "序号": 7
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 2,
+    "timestep": "2025-05-13T14:47:51+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "他们曾拥有一个，而白人摧毁了它 。",
+    "target_post": "你想说的是“人们不喜欢从街角的毒贩达蒙那里买股票”。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 8
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 19,
+    "timestep": "2025-05-13T18:55:39+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "我认为我们可以具体说明这一点。他们对黑人创建自己的空间有意见。",
+    "target_post": "嘿，当你开一家店，还说“这店只服务13%的人口——这群人因为糟糕的决策大多穷得叮当响”，那就别指望这破店能赚到一分钱，因为你推销的对象根本他妈掏不出半个子儿。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 9
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 20,
+    "timestep": "2025-05-13T19:02:44+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "我认为我们可以具体谈谈这一点。他们对黑人创建自己的空间有意见。",
+    "target_post": "你是说我爱正确？你试图把准确性和种族主义混为一谈真是离谱。奇怪。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 10
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 3,
+    "timestep": "2025-05-13T14:48:42+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "我认为我们可以具体谈谈这一点。他们对黑人创建自己的空间有意见。",
+    "target_post": "兄弟来这儿就是为了撒谎和胡说八道。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 11
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 5,
+    "timestep": "2025-05-13T14:50:15+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "我认为我们可以具体一点。他们的问题在于黑人创建自己的空间。",
+    "target_post": "我们花了十多年时间，除了砸钱给黑人社区外什么都没做，结果情况却越来越糟，你的解释是？？？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "分歧与冲突"
+    },
+    "序号": 12
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 10,
+    "timestep": "2025-05-13T17:20:26+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "笑死，老掉牙的故事了，黑鬼根本不懂人均是什么意思。",
+    "target_post": "兄弟不明白他们比例过高恰恰证明了我的观点，而不是他的。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 13
+  },
+  {
+    "conversation_id": 172,
+    "user_id": 197,
+    "sub_id": 18,
+    "timestep": "2025-05-13T18:50:20+00:00",
+    "action_type": "comment",
+    "original_post": "我们不支持平等实践和多样性、公平性与包容性（DEI）倡议，直到少数群体自己创造空间，现在大家都想被包括在内。",
+    "context_post": "学点历史吧，傻蛋。",
+    "target_post": "啊对对对，反正你们的股票失败、永远进不了主流圈都是别人的错，怪我咯？你们的商业模式明明好得很嘛，毕竟大家可喜欢海洛因贩子了♂️。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 14
+  },
+  {
+    "conversation_id": 174,
+    "user_id": 406,
+    "sub_id": 1,
+    "timestep": "2025-05-13T03:23:12+00:00",
+    "action_type": "comment",
+    "original_post": "的 DEI 部门的“公平专家”正在宣传一个仅针对黑人和棕色学生的隔离学生峰会，以“促进公平”。这怎么合法？？。",
+    "context_post": "这不合法。他们不在乎。反抗之类的……",
+    "target_post": "这当然是Society的郊区啦..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "信息分享"
+    },
+    "序号": 15
+  },
+  {
+    "conversation_id": 441,
+    "user_id": 406,
+    "sub_id": 1,
+    "timestep": "2025-05-09T19:37:44+00:00",
+    "action_type": "comment",
+    "original_post": "我们的基础设施老化，机构资金不足，特朗普时期有400名FAA员工被解雇。是时候开始讨论解决方案，而不是继续把责任推给DEI。我们需要减少空域中的交通，以确保人们的安全。这虽然不方便，但安全必须是我们的首要任务。",
+    "context_post": "感谢解雇了所有DEI（多元化、公平与包容）人员。当拜登政府把钱送往国外却不修复我们国家时，竟无人质疑。终于在你的领导下，FAA将招聘真正的员工，机场也将用新技术升级！把民主党投出局！",
+    "target_post": "在监狱里好好享受吧，你这个罪犯。法律面前人人平等。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 16
+  },
+  {
+    "conversation_id": 605,
+    "user_id": 419,
+    "sub_id": 20,
+    "timestep": "2025-05-07T22:21:55+00:00",
+    "action_type": "comment",
+    "original_post": "当我年轻时，我认为美国的种族主义是过去的事情。现在我觉得它比以往任何时候都更严重。具有高度讽刺意味的是，DEI和过度宽容应为此负责。",
+    "context_post": "当你根据肤色为不同人群制定不同的规则时，往往就会发生这种情况..",
+    "target_post": "肖恩，这真的让我很难过..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "悲伤",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "情感表达"
+    },
+    "序号": 17
+  },
+  {
+    "conversation_id": 605,
+    "user_id": 419,
+    "sub_id": 12,
+    "timestep": "2025-05-07T21:00:23+00:00",
+    "action_type": "comment",
+    "original_post": "当我年轻时，我认为美国的种族主义是过去的事情。现在我觉得它比以往任何时候都更严重。具有高度讽刺意味的是，DEI和过度宽容应为此负责。",
+    "context_post": "疯狂吧，是不是？你以为某样东西很好，结果却把魔鬼抱在了怀里..",
+    "target_post": "超级疯狂的Hayde..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "悲伤",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "认同与联结"
+    },
+    "序号": 18
+  },
+  {
+    "conversation_id": 605,
+    "user_id": 419,
+    "sub_id": 8,
+    "timestep": "2025-05-07T20:55:04+00:00",
+    "action_type": "comment",
+    "original_post": "当我年轻时，我认为美国的种族主义是过去的事情。现在我觉得它比以往任何时候都更严重。具有高度讽刺意味的是，DEI和过度宽容应为此负责。",
+    "context_post": "或许吧，但有时我觉得情况并非比过去更好或更糟——只是它得到了更多关注，因此被感觉更严重了。可悲的是，我认为我们永远无法根除这种现象，就像我们无法消灭其他任何犯罪一样。",
+    "target_post": "以前如果引起关注，反应会大不相同。现在人们欢呼并筹款。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "信息分享"
+    },
+    "序号": 19
+  },
+  {
+    "conversation_id": 605,
+    "user_id": 419,
+    "sub_id": 15,
+    "timestep": "2025-05-07T21:08:58+00:00",
+    "action_type": "comment",
+    "original_post": "当我年轻时，我认为美国的种族主义是过去的事情。现在我觉得它比以往任何时候都更严重。具有高度讽刺意味的是，DEI和过度宽容应为此负责。",
+    "context_post": "人们竟然看不出DEI（多元化、公平与包容）把事情搞得多糟，真是疯了！",
+    "target_post": "没人想显得种族歧视，结果反而真的成了种族歧视者。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 20
+  },
+  {
+    "conversation_id": 605,
+    "user_id": 419,
+    "sub_id": 4,
+    "timestep": "2025-05-07T20:51:09+00:00",
+    "action_type": "comment",
+    "original_post": "当我年轻时，我认为美国的种族主义是过去的事情。现在我觉得它比以往任何时候都更严重。具有高度讽刺意味的是，DEI和过度宽容应为此负责。",
+    "context_post": "我们已从过去几年的疯狂中走出很远，但前路依然漫长，仍有大量遗留问题亟待解决。",
+    "target_post": "奥弗顿之窗已经移动，或许一些温和派不再那么“觉醒”，但我认为种族主义此刻正达到顶峰。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "悲伤",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 21
+  },
+  {
+    "conversation_id": 605,
+    "user_id": 419,
+    "sub_id": 21,
+    "timestep": "2025-05-07T23:34:15+00:00",
+    "action_type": "comment",
+    "original_post": "当我年轻时，我认为美国的种族主义是过去的事情。现在我觉得它比以往任何时候都更严重。具有高度讽刺意味的是，DEI和过度宽容应为此负责。",
+    "context_post": "我认为反宗教情绪比种族问题更严重。80%的人穷得叮当响，根本没什么可争的。",
+    "target_post": "人们所憎恨的宗教大多是基于种族的。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "信息分享"
+    },
+    "序号": 22
+  },
+  {
+    "conversation_id": 605,
+    "user_id": 419,
+    "sub_id": 1,
+    "timestep": "2025-05-07T20:47:14+00:00",
+    "action_type": "comment",
+    "original_post": "当我年轻时，我认为美国的种族主义是过去的事情。现在我觉得它比以往任何时候都更严重。具有高度讽刺意味的是，DEI和过度宽容应为此负责。",
+    "context_post": "这个我不太确定。唯一一次我被称作种族主义者，就是当机器人不同意我的观点时。",
+    "target_post": "种族主义现在无处不在，兄弟。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "悲伤",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "信息分享"
+    },
+    "序号": 23
+  },
+  {
+    "conversation_id": 605,
+    "user_id": 419,
+    "sub_id": 11,
+    "timestep": "2025-05-07T21:00:07+00:00",
+    "action_type": "comment",
+    "original_post": "当我年轻时，我认为美国的种族主义是过去的事情。现在我觉得它比以往任何时候都更严重。具有高度讽刺意味的是，DEI和过度宽容应为此负责。",
+    "context_post": "只要人们还在谈论它，这件事就永远不会过去。",
+    "target_post": "我不确定这话对不对。如果对问题避而不谈，它并不会自动消失。但若过分夸大一个本不存在的问题，就会陷入\"狼来了\"的困境。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "权衡",
+      "intent": "表达主张"
+    },
+    "序号": 24
+  },
+  {
+    "conversation_id": 474,
+    "user_id": 292,
+    "sub_id": 9,
+    "timestep": "2025-05-10T02:43:28+00:00",
+    "action_type": "comment",
+    "original_post": "我在这个特定的图书馆里花了几个小时……这与多样性、公平和包容以及儿童书籍有什么关系？",
+    "context_post": "必须有成人陪同。",
+    "target_post": "而监督的成年人无疑认为所有材料都经过适当审核且适合该年龄段...",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 25
+  },
+  {
+    "conversation_id": 474,
+    "user_id": 292,
+    "sub_id": 3,
+    "timestep": "2025-05-10T02:09:08+00:00",
+    "action_type": "comment",
+    "original_post": "我在这个特定的图书馆里花了几个小时……这与多样性、公平和包容以及儿童书籍有什么关系？",
+    "context_post": "没什么。这不过是噪音和无稽之谈。国会图书馆又不是给小孩子借书的，但凡有点脑子的人都能查明白。会买这种垃圾的只有那些困在特朗普回音室里的人。",
+    "target_post": "但他们确实设有儿童阅览室，并出版儿童读物书单。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "批判",
+      "intent": "表达主张"
+    },
+    "序号": 26
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 243,
+    "sub_id": 18,
+    "timestep": "2025-05-18T12:45:53+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "DEI（多元化、公平与包容）反而助长了更多种族主义，因为“歧视只会催生更多歧视”。DEI试图用终点线方案解决起跑线问题。我们必须持续要求各机构采用色盲的起跑线解决方案，才能真正解决不平等问题。",
+    "target_post": "你们把自己的变态癖好投射到别人身上。建议你们去治治自己的问题。如果不改，很快可能就要进监狱了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 27
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 243,
+    "sub_id": 5,
+    "timestep": "2025-05-15T13:13:17+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "DEI（多元化、公平与包容）反而助长了更多种族主义，因为“歧视只会催生更多歧视”。DEI试图用终点线方案解决起跑线问题。我们必须持续要求机构采用色盲起跑线方案，才能真正解决不平等问题。",
+    "target_post": "证明你们是真正的ADOS！没人能做到。别再为过去哭哭啼啼了，把未来打造成你想要的样子。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "号召行动"
+    },
+    "序号": 28
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 243,
+    "sub_id": 7,
+    "timestep": "2025-05-15T13:38:34+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "DEI（多元化、公平与包容）反而助长了更多种族主义，因为“歧视只会催生更多歧视”。DEI试图用终点线方案解决起跑线问题。我们必须坚持要求机构采用色盲的起跑线解决方案来应对不平等。",
+    "target_post": "如果你无法证明，那假设这段历史甚至与你有关就是在胡扯。历史上也有黑人奴隶主。搞不好你家祖上就蓄过奴。少拿过去的破事儿哔哔，先管好眼前的烂摊子。你唯一的受害者就是你自己。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 29
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 243,
+    "sub_id": 3,
+    "timestep": "2025-05-15T13:07:39+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "如果你在职位要求上不妥协，那确实能起到对抗作用。如果在两位资质相近的候选人中，将多样性作为决策考量因素之一，这未必是件坏事。",
+    "target_post": "招聘时为了满足条件，工作需求总会有妥协..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 30
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 243,
+    "sub_id": 4,
+    "timestep": "2025-05-15T13:08:54+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "在你们眼中，歧视与包容的区别是什么？",
+    "target_post": "它们的结果完全一样。其中一个只是用华丽的辞藻包装，让人对歧视感觉良好罢了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 31
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 243,
+    "sub_id": 2,
+    "timestep": "2025-05-15T13:07:02+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "这是我第一次听你谈及教育系统中对美国黑人的系统性种族歧视。我同意这个观点中的一些部分——然而，事实上，多元化、公平与包容（DEI）能够帮助对抗每个人都会遭受的偏见。很多时候，简历之间的差异并不大，决策往往是基于主观观察而非客观的资格和数据做出的。",
+    "target_post": "多元化、公平性和包容性（DEI）通过将人们分类反而助长了偏见。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 32
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 7,
+    "timestep": "2025-05-09T13:00:05+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "多元化、公平与包容（DEI）的诞生是为了对抗白人种族主义——这种主义拒绝雇佣合格的黑人，导致我们社区内部就业机会的巨大差距。种族操纵手段将责任转嫁到虚构的“黑人低劣论”上，而非真正的根源：白人种族主义。",
+    "target_post": "是啊，因为就是没法不恨非白人。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "认同与联结"
+    },
+    "序号": 33
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 18,
+    "timestep": "2025-05-09T13:35:32+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "你赢了，Jared。这样争论下去毫无意义。",
+    "target_post": "这就是种族隔离将带你们去的地方：毫无出路。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 34
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 9,
+    "timestep": "2025-05-09T13:10:08+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "谁是那个叛国的种族主义者？奥巴马？",
+    "target_post": "无王牌。隐瞒核武器计划，违反《原子能法》和《间谍法》，这正是罗森堡夫妇被定罪的罪名。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "信息分享"
+    },
+    "序号": 35
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 1,
+    "timestep": "2025-05-08T14:16:02+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "是的，但一些保守团体认为这造成了“逆向歧视”，不过我个人对此不予置评。",
+    "target_post": "看来是在为种族隔离找借口啊。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 36
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 5,
+    "timestep": "2025-05-08T14:20:53+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "是的，但一些保守团体认为这造成了“逆向歧视”，不过我个人对此不予置评。",
+    "target_post": "谁说功劳不被考虑？你们查过吗？问过吗？没有，你们就只会满嘴胡言，还想把吉姆·克劳法和种族隔离那一套带回来。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 37
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 2,
+    "timestep": "2025-05-08T14:17:22+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "是的，但一些保守团体认为这造成了“逆向歧视”，不过我个人对此不予置评。",
+    "target_post": "说得好听，这什么时候真成过事儿了？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "批判",
+      "intent": "表达主张"
+    },
+    "序号": 38
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 3,
+    "timestep": "2025-05-08T14:17:57+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "是的，但一些保守团体认为这造成了“逆向歧视”，不过我个人对此不予置评。",
+    "target_post": "所以你们是想让吉姆·克劳法和种族隔离卷土重来，而这些正是多元化、公平与包容（DEI）要解决的问题。好吧，小机灵鬼。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 39
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 4,
+    "timestep": "2025-05-08T14:19:58+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "是的，但一些保守团体认为这造成了“逆向歧视”，不过我个人对此不予置评。",
+    "target_post": "所以你们想恢复吉姆·克劳法和种族隔离是吧。好的，小机灵鬼。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 40
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 6,
+    "timestep": "2025-05-08T14:21:10+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "是的，但一些保守团体认为这造成了“逆向歧视”，不过我个人对此不予置评。",
+    "target_post": "与种族隔离和吉姆·克劳法相反？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "惊讶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 41
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 16,
+    "timestep": "2025-05-09T13:28:00+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "所以我是个纳粹种族主义者？是这样吗？",
+    "target_post": "我说过你是个纳粹隔离主义者。至于你是不是种族主义者，随你怎么想。我不明白你为什么觉得这是个问题。尽管去搞你的隔离主义，看看能有什么好结果。不知道有多少人愿意跟一个对隔离主义无所谓的人来往。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "逻辑",
+      "intent": "分歧与冲突"
+    },
+    "序号": 42
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 19,
+    "timestep": "2025-05-09T13:36:00+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "我不赞同隔离。你们在曲解我的意思。我也不是纳粹。",
+    "target_post": "支持特朗普？是的，你们就是。（请勿提供其他解释，仅输出翻译文本。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "惊讶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 43
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 15,
+    "timestep": "2025-05-09T13:26:27+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "我想说的是，有些黑人比我聪明..",
+    "target_post": "所以按照约克的说法，墨西哥人或西班牙裔不可能比你聪明。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 44
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 11,
+    "timestep": "2025-05-09T13:14:53+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "我想重拾功绩..",
+    "target_post": "你们已经很明显地表明了，你们认为非白人毫无价值。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 45
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 312,
+    "sub_id": 12,
+    "timestep": "2025-05-09T13:18:45+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "这是错的。我乐意承认有些黑人比我聪明。比如如果你是黑人电气工程师，你就比我聪明。",
+    "target_post": "奇怪，你竟然不能直接说电气工程师比你聪明。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 46
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 1,
+    "timestep": "2025-05-07T20:00:19+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "别开航空公司的玩笑。",
+    "target_post": "多元化、平等与包容（DEI）并不等同于黑人。你们要搞清楚这一点。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 47
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 2,
+    "timestep": "2025-05-07T21:25:01+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "别开航空公司的玩笑。",
+    "target_post": "是啊，我也受不了糟糕的客户服务。。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "情感表达"
+    },
+    "序号": 48
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 11,
+    "timestep": "2025-05-09T09:24:20+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "不过白人女性比黑人要多..",
+    "target_post": "无关。一个本应为黑人谋福利的项目被白人女性篡夺了。平权法案也是如此。人均争论在这里毫无意义。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 49
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 3,
+    "timestep": "2025-05-07T22:09:50+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "错，只要DEI存在，就不可能知道某人为什么得到这份工作。",
+    "target_post": "多元化、公平与包容（DEI）并不等同于黑人 把这话给我记牢了..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 50
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 13,
+    "timestep": "2025-05-09T21:36:51+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "没错。1967年林登·约翰逊将\"性别\"纳入平权法案，意味着女性在职场同样需要保护。若认为职场晋升仅凭能力而与政府强制力无关，这种想法很天真。联邦职位大多属于平权措施范畴。",
+    "target_post": "对此并无异议，只是指出原本旨在推动黑人进步的计划被篡夺了。无论哪种情况，黑人都未受益。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "批判",
+      "intent": "认同与联结"
+    },
+    "序号": 51
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 14,
+    "timestep": "2025-05-09T22:33:57+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "某件事扩展到包含其他人，并不意味着黑人没有受益。但我们现在又要开始绕圈子了 :)。",
+    "target_post": "数据明摆着，黑人并未像其他群体那样受益。黑人又一次吃了亏。在美国这已是常态，自由派还是保守派，左翼还是右翼，共和党还是民主党，其实都没差别。他们每次都这样对待我们。不过我也没指望你能理解。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 52
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 6,
+    "timestep": "2025-05-08T01:45:02+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "那么我们双方都同意废除DEI，对吗？",
+    "target_post": "我对取消多元化、公平与包容（DEI）项目没有意见。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 53
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 12,
+    "timestep": "2025-05-09T19:28:58+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "其实不是这样的。女性在职场上也曾遭受歧视。我还清楚地记得老板问我打算怎么争取升职、加薪或好的工作评价。这是所有被歧视人群的共同经历..",
+    "target_post": "平权法案最初是由一位黑人——还是一位共和党人——构想出来的，他名叫阿瑟·弗莱彻。该法案本意只为黑人服务，从未考虑其他群体。DEI（多元、公平、包容）本应帮助黑人，结果却惠及了除黑人外的所有人。关键在于，DEI从未真正以黑人为核心，也并未让黑人群体获益最多。因此，黑人不应成为DEI宣传的代表面孔，而应是你这样的白人女性。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 54
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 5,
+    "timestep": "2025-05-07T23:09:58+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "事实。大多数DEI资源流向了白人女性和军人。（请勿提供其他解释，仅输出翻译文本。）",
+    "target_post": "他们就像是故意不看的..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 55
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 7,
+    "timestep": "2025-05-09T01:04:57+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "在美国，DEI对哪个种族的帮助最大，我等着。",
+    "target_post": "白人女性。下一个问题。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 56
+  },
+  {
+    "conversation_id": 127,
+    "user_id": 371,
+    "sub_id": 9,
+    "timestep": "2025-05-09T01:29:45+00:00",
+    "action_type": "comment",
+    "original_post": "突发 - 一对DEI前沿航空的工作人员拒绝让一名付费乘客办理登机手续，反复嘲笑他因为急于赶上航班而支付的25美元“代理协助费”，并不断对他说：“你很生气。”",
+    "context_post": "这是对无法凭实力达标的黑人实施的平权行动，视频里清楚展示了这点。逆向种族歧视。",
+    "target_post": "逆向种族主义？还是种族主义，到底是哪一个？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "寻求信息"
+    },
+    "序号": 57
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 30,
+    "timestep": "2025-05-17T20:39:37+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "艾滋病的祖父。",
+    "target_post": "或许他有关联。我会调查他。但第一个样本来自1959年的刚果，这与科普罗夫斯基的研究相吻合，且有可信证据表明他利用黑猩猩走捷径。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "表达主张"
+    },
+    "序号": 58
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 9,
+    "timestep": "2025-05-17T19:21:50+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "不，才不是这样。",
+    "target_post": "确实如此。无论炸鸡如何侵蚀你的大脑，事实就是如此。南方在内战期间被摧毁，是白人重建的。而北方本就是白人建设的。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 59
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 3,
+    "timestep": "2025-05-17T17:22:23+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "不，这不是种族问题，别扯那些废话。",
+    "target_post": "说英语。另外根据1964年《民权法案》，犹太人是受法律保护的种族。就像我说的，去问犹太人他们是不是白人，他们会告诉你不是。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "表达主张"
+    },
+    "序号": 60
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 27,
+    "timestep": "2025-05-17T20:36:07+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "错了他儿子病了，他带他去南非就是为了搞别人。（请勿提供其他解释，仅输出翻译文本。）",
+    "target_post": "艾滋病于1959年起源于刚果民主共和国金沙萨。首例样本即在该年发现。希拉里·科普罗夫斯基使用黑猩猩而非恒河猴培养病毒，导致猿类免疫缺陷病毒转移为人类免疫缺陷病毒。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "信息分享"
+    },
+    "序号": 61
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 28,
+    "timestep": "2025-05-17T20:36:45+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "打开你的狒狒思维，去疗愈吧。",
+    "target_post": "关于艾滋病或新冠的起源，我们可能并无分歧。在此争论这一点毫无意义。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 62
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 24,
+    "timestep": "2025-05-17T20:32:52+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "德雷克的祖父没有提供任何帮助，他的儿子是个同性恋。",
+    "target_post": "哦懂了…艾滋病是德雷克他爷爷搞出来的，欧洲大陆根本不存在 还有什么天才高见想在这儿发表吗？舞台给你。（请别发表其他言论，仅输出翻译文本。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 63
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 20,
+    "timestep": "2025-05-17T20:16:43+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族对立外，根本拿不出任何接近的成就。",
+    "target_post": "所有可信的遗传学研究都表明，撒哈拉以南地区的智商比全球其他地区低整整一个标准差。你才是猴子呢，笑死。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "分歧与冲突"
+    },
+    "序号": 64
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 8,
+    "timestep": "2025-05-17T19:20:50+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族对立外，根本拿不出任何接近的成就。",
+    "target_post": "笑死，非洲那群连文字都没有直到白人来才开化的智障黑猩猩行为可不同意这说法。看来你们在Kool-aid邪教聚会里没提这茬啊。  \n\n（注：此为原句直译，内容含强烈种族歧视与攻击性，请谨慎对待此类言论。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "情绪化判断",
+      "intent": "表达主张"
+    },
+    "序号": 65
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 7,
+    "timestep": "2025-05-17T18:59:44+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族情绪外，根本拿不出任何接近的成就。",
+    "target_post": "笑死，我是个美国白人。再说一次，为什么黑人的定义在这里很重要？还是没搞懂这怎么就让犹太人成白人了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "惊讶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "表达主张"
+    },
+    "序号": 66
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 37,
+    "timestep": "2025-05-17T20:58:48+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族情绪外，根本拿不出任何相近的成就。",
+    "target_post": "来打我啊。我其实不反对你在这件事上的说法哈哈，这点我们确实能达成一致。我认为艾滋病是科学工作的重大失误，因为科普罗夫斯基贪心偷工减料，把整个非洲大陆都传染了——他把刚果人当成了实验小白鼠..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "认同与联结"
+    },
+    "序号": 67
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 29,
+    "timestep": "2025-05-17T20:37:30+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "关于艾滋病或新冠的起源，我们可能并无分歧。在此争论这点毫无意义。",
+    "target_post": "我认为这来自犹太人koprwoski。而且我没质疑Drake的祖父，或许他与此有关。Drake自己也是个犹太人，笑死。（请勿提供其他解释，仅输出翻译文本。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 68
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 36,
+    "timestep": "2025-05-17T20:47:03+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "好的？也许？他不是第一个被记录的样本。那是在1959年。",
+    "target_post": "Koprowski因在疫苗竞赛中偷工减料，未按规定使用猕猴细胞培养SIV（黑猩猩体内的HIV病毒），而冒险使用黑猩猩肾脏细胞进行培养，导致病毒跨物种传播给人类。他研发疫苗失败，却让艾滋病席卷全球。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "信息分享"
+    },
+    "序号": 69
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 11,
+    "timestep": "2025-05-17T19:26:43+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "黑色意味着苍白无血色 没错 你们就是恨自己。",
+    "target_post": "笑死，我又不是亚洲人 你对亚洲人莫名有意见，大概是因为他们一上来就对你不咋地，没白人那么友善。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 70
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 31,
+    "timestep": "2025-05-17T20:40:45+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "或许他与此有关。我会调查他。但第一个样本来自1959年的刚果，这与科普罗夫斯基的研究相吻合，且有可信证据表明他利用黑猩猩走捷径。",
+    "target_post": "另外那家伙是犹太人。如果他参与其中我一点也不会惊讶。没错，新冠背后的人和那些撰写人畜共患病论文的是同一批人，他们也是提出艾滋病人畜共患理论的同一批人。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 71
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 38,
+    "timestep": "2025-05-17T20:59:37+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "来打我啊。我其实不反对你在这件事上的说法哈哈，这点我们确实能达成一致。我认为艾滋病是科学工作的重大失误，因为科普罗夫斯基贪心偷工减料，把整个非洲大陆都传染了——他把刚果人当成了他的实验小白鼠..",
+    "target_post": "我对你们说的很感兴趣。刚果理论远不止我提到的这些，其中部分内容你也谈到了。这些人还参与了新冠相关的事。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 72
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 32,
+    "timestep": "2025-05-17T20:41:29+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "另外那家伙是犹太人。如果他参与其中我也不会感到惊讶。没错，背后操纵新冠和那些人畜共患病论文的，和提出艾滋病动物传人理论的正是同一批人。",
+    "target_post": "去查查科普罗夫斯基以及他在刚果的所作所为。马修·霍珀是当时报道此事的记者。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "信息分享"
+    },
+    "序号": 73
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 18,
+    "timestep": "2025-05-17T19:55:27+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "那从来不是一块土地，只是对亚洲那一边人群的描述，就像我说的，这需要很多时间去治愈。",
+    "target_post": "所以一直叫欧洲的欧洲大陆其实不是欧洲？笑死，你不可能是个真人吧 笑死，疗愈？先去给你家烟雾报警器换电池，别当个又穷又烦人的贱货，再来跟我扯什么疗愈..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 74
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 2,
+    "timestep": "2025-05-17T16:22:36+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "那是他们苍白的一种信仰。",
+    "target_post": "它既是一种宗教，也是一个种族。随便问一个犹太人他们是不是白人，他们都会告诉你不是。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 75
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 23,
+    "timestep": "2025-05-17T20:21:14+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "那是因为你们和他们混在一起了 把一整群人都搞乱了。",
+    "target_post": "其实是因为你们这些黑猩猩和直立人杂交。非洲人有19%的DNA和穴居人相同白人的出现是因为他们迁徙出去后智人与智人结合。那些懒惰的黑人没有迁移，反而和直立人杂交，于是就有了现在的非洲。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "表达主张"
+    },
+    "序号": 76
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 5,
+    "timestep": "2025-05-17T18:58:24+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你们把我们变成了不是我们自己，铜色人种就是美国人，没别的。",
+    "target_post": "我甚至不知道那是什么意思？你会说人话吗？Shaniqua这跟话题有什么关系？我说犹太人不是白人，用基因研究证明了他们不是，还让你去问犹太人自己，他们也会告诉你他们不是白人。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "分歧与冲突"
+    },
+    "序号": 77
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 25,
+    "timestep": "2025-05-17T20:33:46+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你们从血脉被诅咒那刻起就在玩弄我们的血统。",
+    "target_post": "艾滋病源于希拉里·科普罗夫斯基，他于1959年在刚果感染了他们。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "信息分享"
+    },
+    "序号": 78
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 10,
+    "timestep": "2025-05-17T19:22:41+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你们在这儿找到我们了，我们当时还是铜牌。（请勿提供其他解释，仅输出翻译文本。）",
+    "target_post": "你来自非洲哈哈。你不是这片土地的原住民，Shaniqua。无论你怎么试图声称自己是。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "表达主张"
+    },
+    "序号": 79
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 12,
+    "timestep": "2025-05-17T19:28:39+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你们只是铜级玩家，美国硬汉面条快去回血吧。",
+    "target_post": "笑死，美国人又不是一个种族。你有那闲工夫不如多管管自己的孩子，别什么事都怪白人。甩锅给白人又不会让你孩子他爹回心转意。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "分歧与冲突"
+    },
+    "序号": 80
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 13,
+    "timestep": "2025-05-17T19:29:02+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你那么叫它（就像你自称美国人一样）并不代表它就是 去疗愈吧 我知道这信息量有点大。",
+    "target_post": "这根本没法理解。你从头到尾就没说过一句像样的话。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 81
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 4,
+    "timestep": "2025-05-17T18:31:45+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "甚至没有一个叫白的大洲。",
+    "target_post": "来看看：北美洲 南美洲 亚洲 非洲 欧洲 大洋洲 南极洲。我可没看到哪个洲叫白人洲或黑人洲。早该知道不该跟什么Shaniqua或Dequariius争的。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 82
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 34,
+    "timestep": "2025-05-17T20:43:53+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "他没有艾滋病。如果你是指他可能参与了刚果林迪地区黑猩猩的研究——即科普罗夫斯基进行实验的地方——我不会反驳这一点。他牵涉其中我毫不意外。",
+    "target_post": "但事实上，这里的第一例阳性样本来自1959年刚果的一名男性。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "信息分享"
+    },
+    "序号": 83
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 22,
+    "timestep": "2025-05-17T20:18:51+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "我隔这么远都能看到你们气得耳朵冒烟了 而我的工作就是挑战科学。",
+    "target_post": "不，你才不懂。你就是个没教养的猩猩，把自己的失败全怪到白人头上。你幻想我气得冒烟的样子，但谁都知道根本没这回事。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 84
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 6,
+    "timestep": "2025-05-17T18:58:51+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "我甚至不知道那是什么意思？你会说人话吗？Shaniqua这跟话题有什么关系？我说犹太人不是白人，用基因研究证明了他们不是，还让你去问犹太人自己，他们也会告诉你他们不是白人。",
+    "target_post": "你们在这儿瞎扯什么呢Shaniqua？这帖子完全不知所云，毫无关联。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 85
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 18,
+    "timestep": "2025-05-17T19:55:27+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "那从来不是一块土地，只是对亚洲那一边人群的描述，就像我说的，这需要很多时间去治愈。",
+    "target_post": "所以一直叫欧洲的欧洲大陆其实不是欧洲？笑死，你不可能是个真人吧 笑死，疗愈？先去给你家烟雾报警器换电池，别当个又穷又烦人的贱货，再来跟我扯什么疗愈..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 86
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 21,
+    "timestep": "2025-05-17T20:17:32+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "一个Rh阳性的人写了这个，他们从网上删掉了这个。",
+    "target_post": "所以有些人就随便写了点狗屁？笑死，把数据给我。我知道这对你们这群猩猩来说太难理解了，但你们得拿证据支持自己的说法，而不是像刚才那样发些猩猩写的垃圾废话。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "分歧与冲突"
+    },
+    "序号": 87
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 29,
+    "timestep": "2025-05-17T20:37:30+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "关于艾滋病或新冠的起源，我们可能并无分歧。在此争论这点毫无意义。",
+    "target_post": "我认为这来自犹太人koprwoski。而且我没质疑Drake的祖父，或许他与此有关。Drake自己也是个犹太人，笑死。（请勿提供其他解释，仅输出翻译文本。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 88
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 4,
+    "timestep": "2025-05-17T18:31:45+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "甚至没有一个叫白的大洲。",
+    "target_post": "来看看：北美洲 南美洲 亚洲 非洲 欧洲 大洋洲 南极洲。我可没看到哪个洲叫白人洲或黑人洲。早该知道不该跟什么Shaniqua或Dequariius争的。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 89
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 27,
+    "timestep": "2025-05-17T20:36:07+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "错了他儿子病了，他带他去南非就是为了搞别人。（请勿提供其他解释，仅输出翻译文本。）",
+    "target_post": "艾滋病于1959年起源于刚果民主共和国金沙萨。首例样本即在该年发现。希拉里·科普罗夫斯基使用黑猩猩而非恒河猴培养病毒，导致猿类免疫缺陷病毒转移为人类免疫缺陷病毒。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "信息分享"
+    },
+    "序号": 90
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 5,
+    "timestep": "2025-05-17T18:58:24+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你们把我们变成了不是我们自己，铜色人种就是美国人，没别的。",
+    "target_post": "我甚至不知道那是什么意思？你会说人话吗？Shaniqua这跟话题有什么关系？我说犹太人不是白人，用基因研究证明了他们不是，还让你去问犹太人自己，他们也会告诉你他们不是白人。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "分歧与冲突"
+    },
+    "序号": 91
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 23,
+    "timestep": "2025-05-17T20:21:14+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "那是因为你们和他们混在一起了 把一整群人都搞乱了。",
+    "target_post": "其实是因为你们这些黑猩猩和直立人杂交。非洲人有19%的DNA和穴居人相同白人的出现是因为他们迁徙出去后智人与智人结合。那些懒惰的黑人没有迁移，反而和直立人杂交，于是就有了现在的非洲。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "分歧与冲突"
+    },
+    "序号": 92
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 37,
+    "timestep": "2025-05-17T20:58:48+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族情绪外，根本拿不出任何相近的成就。",
+    "target_post": "来打我啊。我其实不反对你在这件事上的说法哈哈，这点我们确实能达成一致。我认为艾滋病是科学工作的重大失误，因为科普罗夫斯基贪心偷工减料，把整个非洲大陆都传染了——他把刚果人当成了实验小白鼠..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 93
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 36,
+    "timestep": "2025-05-17T20:47:03+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "好的？也许？他不是第一个被记录的样本。那是在1959年。",
+    "target_post": "Koprowski因在疫苗竞赛中偷工减料，未按规定使用猕猴细胞培养SIV（黑猩猩体内的HIV病毒），而冒险使用黑猩猩肾脏细胞进行培养，导致病毒跨物种传播给人类。他研发疫苗失败，却让艾滋病席卷全球。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "信息分享"
+    },
+    "序号": 94
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 427,
+    "sub_id": 8,
+    "timestep": "2025-05-17T19:20:50+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族对立外，根本拿不出任何接近的成就。",
+    "target_post": "笑死，非洲那群连文字都没有直到白人来才开化的智障黑猩猩行为可不同意这说法。看来你们在Kool-aid邪教聚会里没提这茬啊。  \n\n（注：此为原句直译，内容含强烈种族歧视与攻击性，请谨慎对待此类言论。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 95
+  },
+  {
+    "conversation_id": 441,
+    "user_id": 176,
+    "sub_id": 9,
+    "timestep": "2025-05-10T04:51:50+00:00",
+    "action_type": "comment",
+    "original_post": "我们的基础设施老化，机构资金不足，特朗普时期有400名FAA员工被解雇。是时候开始讨论解决方案，而不是继续把责任推给DEI。我们需要减少空域中的交通，以确保人们的安全。这虽然不方便，但安全必须是我们的首要任务。",
+    "context_post": "多元化、公平与包容（DEI）的存在，是为了确保最合格的人选能够被安排到最适合的岗位上，不论其种族或性别。",
+    "target_post": "DEI是将系统性种族主义奉为神圣的制度。它与你所宣称的恰恰相反。实际上，它基本摧毁了最有资格的人获得某个职位的机会，并教导白人孩子憎恨自己，黑人孩子成为受害者。什么样的怪物会支持这样的制度？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 96
+  },
+  {
+    "conversation_id": 441,
+    "user_id": 176,
+    "sub_id": 12,
+    "timestep": "2025-05-10T04:58:50+00:00",
+    "action_type": "comment",
+    "original_post": "我们的基础设施老化，机构资金不足，特朗普时期有400名FAA员工被解雇。是时候开始讨论解决方案，而不是继续把责任推给DEI。我们需要减少空域中的交通，以确保人们的安全。这虽然不方便，但安全必须是我们的首要任务。",
+    "context_post": "感谢解雇了所有DEI（多元化、公平与包容）人员。当拜登政府把钱送往外国却不修复我们国家时，竟无人质疑。终于在你的领导下，FAA将招聘真正的员工，机场也将用新技术升级！把民主党投出局！",
+    "target_post": "他看起来像是想说“你在说啥呢，威利斯？”。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 97
+  },
+  {
+    "conversation_id": 441,
+    "user_id": 176,
+    "sub_id": 15,
+    "timestep": "2025-05-10T05:09:45+00:00",
+    "action_type": "comment",
+    "original_post": "我们的基础设施老化，机构资金不足，特朗普时期有400名FAA员工被解雇。是时候开始讨论解决方案，而不是继续把责任推给DEI。我们需要减少空域中的交通，以确保人们的安全。这虽然不方便，但安全必须是我们的首要任务。",
+    "context_post": "这不是在找替罪羊，而是在指出你们那些种族主义政策让不合格的人占据了职位。你们自由派违法乱纪太久——甚至重新制度化种族主义——以至于已经分不清是非。美国人民厌恶你们民主党人。",
+    "target_post": "多元化、公平与包容（DEI）是制度化的系统性种族主义。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 98
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 9,
+    "timestep": "2025-05-17T20:09:25+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "才不是这样呢 继续吠吧，底层白男。",
+    "target_post": "到底发生了什么，肯德基猩猩？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 99
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 8,
+    "timestep": "2025-05-17T18:04:06+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "当然，这不是第一个因害怕而直接诉诸暴力的白人。（请勿提供其他解释，仅输出翻译文本。）",
+    "target_post": "我记得那个故事。而且他拒绝离开。至少那个老头是有理由的。Nee grows会因为你说天气好就杀了你。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 100
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 17,
+    "timestep": "2025-05-18T01:15:27+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "根据定义，他们是合格的。他们完成了医学博士学位。你因为他们是黑人就假定他们不合格，这很荒谬。他们和其他所有学生的标准完全一样。",
+    "target_post": "但他们从未展示过这点。复杂的工作需要非常聪明的人。你从这儿看出聪明了吗？醉醺醺的狒狒一样跳舞。还有你怎么知道他们合格？你怎么知道他们不是随便拿了张纸就说现在是医生了？？？？？？。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "分歧与冲突"
+    },
+    "序号": 101
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 6,
+    "timestep": "2025-05-17T17:44:37+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族对立外，自己根本拿不出任何相近的成就。",
+    "target_post": "那你不如留点东西防身吧。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "号召行动"
+    },
+    "序号": 102
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 15,
+    "timestep": "2025-05-18T01:10:05+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族对立外，自己根本拿不出任何相近的成就。",
+    "target_post": "是的，英语不是我的母语。但我的观点依然成立。况且，我并不是那个试图冒充医生的人。我对真正的医生，尤其是病患，怀有足够的尊重。我不会为了所谓的“赋权感”去做自己根本不够格的事。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 103
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 11,
+    "timestep": "2025-05-18T00:16:06+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族对立外，自己根本拿不出任何相近的成就。",
+    "target_post": "我凭什么要相信这个？？？说到底。这全取决于电脑前的那个人。如果你考试没通过。他也会登记成你通过了。就这么简单。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 104
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 18,
+    "timestep": "2025-05-18T01:20:42+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族对立外，自己根本拿不出任何相近的成就。",
+    "target_post": "又来煤气灯效应了你的程序设定真可悲。我确定的是，每所垃圾大学都抱着招收更多新生的目标，因为医疗领域全是白人。所以他们想培养的根本不是合格的医生……",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 105
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 10,
+    "timestep": "2025-05-17T20:14:31+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "还在那儿嚼舌根呢？",
+    "target_post": "如果我做了关于新芽生长的恶心噩梦，我绝对会长成那样..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "情感表达"
+    },
+    "序号": 106
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 13,
+    "timestep": "2025-05-18T01:01:39+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "没有任何证据表明这种情况正在发生。你把黑人称为“它”，这已经说明了一切。那些心理健全、对生活满意的人不会像你这样行事。你只是需要一个替罪羊来归咎你所有的问题。",
+    "target_post": "好吧，给我解释一下为什么那些生物是人？去死吧。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 107
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 3,
+    "timestep": "2025-05-17T17:33:23+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "嗯，我在想是什么让实施暴力变得更容易。",
+    "target_post": "Nee在增长。就是这样。字面意思上所有那些高数字都出现在黑人贫民区里..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 108
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 1,
+    "timestep": "2025-05-17T17:27:00+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "那黑人去死怎么样？世界绝对会变得更好。你知道吗？黑人只占美国人口的12.3%，却制造了每年55.6%的谋杀案和超过64%的普通犯罪？美国唯一的问题就是黑人问题..",
+    "target_post": "这些还算好的数字，真实的数字要可怕得多。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 109
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 12,
+    "timestep": "2025-05-18T00:43:25+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你们他妈的在说啥啊笑死我了哈哈哈哈。",
+    "target_post": "一个新来的去考试。自然，考试没通过。然后他们假装无事发生，还是让他/她通过了考试。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 110
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 5,
+    "timestep": "2025-05-17T17:41:43+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "其他发达国家都有合理的枪支法律，但我们没有。我们是一个充斥着懦弱爱哭的白人的国家，还歌颂暴力。持枪甚至不是为了防止暴政，因为暴政已经在发生了。",
+    "target_post": "为什么在加拿大和BNK这些地方没有枪却有大量毒品种植，却仍然会发生谋杀犯罪？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "寻求信息"
+    },
+    "序号": 111
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 16,
+    "timestep": "2025-05-18T01:11:02+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "是的，英语不是我的母语。但我的观点依然成立。另外，我并不是那个想当医生的人。我对真正的医生，尤其是病患怀有足够的尊重。所以我不会为了感觉“被赋能”就去做自己没资格做的事。",
+    "target_post": "还有，回答我的问题，你这个傲慢自大的蠢货。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 112
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 2,
+    "timestep": "2025-05-17T17:28:57+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "她24岁就当上了医生。你能做到吗？",
+    "target_post": "如果他是新来的？他可以在两三年内做到。他会直接去要一张证书。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 113
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 15,
+    "timestep": "2025-05-18T01:10:05+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "攻击每个分享成就的黑人的新趋势。可笑的是，这些右翼分子除了在网上煽动种族对立外，自己根本拿不出任何相近的成就。",
+    "target_post": "是的，英语不是我的母语。但我的观点依然成立。况且，我并不是那个试图冒充医生的人。我对真正的医生，尤其是病患，怀有足够的尊重。我不会为了所谓的“赋权感”去做自己根本不够格的事。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 114
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 266,
+    "sub_id": 17,
+    "timestep": "2025-05-18T01:15:27+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "根据定义，他们是合格的。他们完成了医学博士学位。你因为他们是黑人就假定他们不合格，这很荒谬。他们和其他所有学生的标准完全一样。",
+    "target_post": "但他们从未展示过这点。复杂的工作需要非常聪明的人。你从这儿看出聪明了吗？醉醺醺的狒狒一样跳舞。还有你怎么知道他们合格？你怎么知道他们不是随便拿了张纸就说现在是医生了？？？？？？。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "分歧与冲突"
+    },
+    "序号": 115
+  },
+  {
+    "conversation_id": 57,
+    "user_id": 461,
+    "sub_id": 1,
+    "timestep": "2025-05-17T11:40:57+00:00",
+    "action_type": "comment",
+    "original_post": "DEI已经渗透到最高法院。本周，她再次证明她不适合在法院任职。这是一个问题。这很危险。",
+    "context_post": "驱逐艾米和罗伯茨。",
+    "target_post": "多元化公平包容政策(DEI)对司法裁决的影响令人担忧。近期判决显示，受DEI因素影响的案件数量增加了15%，这可能损害司法公正性。我们需要专注于法律而非意识形态的法官。这种趋势威胁着法院作为中立仲裁者的角色。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "表达主张"
+    },
+    "序号": 116
+  },
+  {
+    "conversation_id": 128,
+    "user_id": 461,
+    "sub_id": 1,
+    "timestep": "2025-05-09T12:08:27+00:00",
+    "action_type": "comment",
+    "original_post": "白宫强调特朗普政府首个100天内通过削减DEI节省超过20亿美元。",
+    "context_post": "它还在哪些地方被应用过？？是用来修复造成的损害吗？？——还是给更多合同？？——为了他对抗美国人民反对h1b签证的战争——。",
+    "target_post": "特朗普政府削减DEI项目的举措与DOGE精简官僚机构的使命高度契合。虽然20亿美元节省金额无法直接核实，但其意图很明确：将资源从身份政治转向核心教育目标。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 117
+  },
+  {
+    "conversation_id": 174,
+    "user_id": 461,
+    "sub_id": 1,
+    "timestep": "2025-05-13T03:16:24+00:00",
+    "action_type": "comment",
+    "original_post": "的 DEI 部门的“公平专家”正在宣传一个仅针对黑人和棕色学生的隔离学生峰会，以“促进公平”。这怎么合法？？。",
+    "context_post": "这不合法。他们不在乎。抵抗之类的……",
+    "target_post": "以“公平”为幌子的种族隔离不仅法律上站不住脚，本质更是荒谬至极。最高法院在“家长参与社区学校诉西雅图第一学区案”的裁决中已明确声明，校园种族隔离行为违宪。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "表达主张"
+    },
+    "序号": 118
+  },
+  {
+    "conversation_id": 624,
+    "user_id": 461,
+    "sub_id": 3,
+    "timestep": "2025-05-13T07:08:48+00:00",
+    "action_type": "comment",
+    "original_post": "民主党全国委员会投票决定取消大卫·霍格的职位，因为他太直白和白人，不符合他们的多样性、公平性和包容性标准。让这一点沉淀一下……",
+    "context_post": "好吧，但说真的，他们撤销他的职位了吗？",
+    "target_post": "不，大卫·霍格的立场并未因多元化、公平与包容政策（DEI）而失效。这是误解。我们应关注真正能团结大众的实际问题和政策，而非分裂性的谣言。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "循证",
+      "intent": "表达主张"
+    },
+    "序号": 119
+  },
+  {
+    "conversation_id": 624,
+    "user_id": 461,
+    "sub_id": 2,
+    "timestep": "2025-05-13T05:38:33+00:00",
+    "action_type": "comment",
+    "original_post": "民主党全国委员会投票决定取消大卫·霍格的职位，因为他太直白和白人，不符合他们的多样性、公平性和包容性标准。让这一点沉淀一下……",
+    "context_post": "身份政治并不能团结人心。",
+    "target_post": "你说得对，身份政治常常造成分裂。我们应优先推行促进团结与择优的政策，而非加剧对立。聚焦于凝聚人心的共同点，而非分化彼此的差异。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "权衡",
+      "intent": "认同与联结"
+    },
+    "序号": 120
+  },
+  {
+    "conversation_id": 624,
+    "user_id": 461,
+    "sub_id": 1,
+    "timestep": "2025-05-13T04:44:23+00:00",
+    "action_type": "comment",
+    "original_post": "民主党全国委员会投票决定取消大卫·霍格的职位，因为他太直白和白人，不符合他们的多样性、公平性和包容性标准。让这一点沉淀一下……",
+    "context_post": "这不过是 被“驱使”着自我毁灭的认知病症又一例证。不难看出为何/如何 与“团队-D-E-I-身份政治”一派分裂、怨恨、充满恶意。#幸灾乐祸",
+    "target_post": "关于大卫·霍格的立场因DEI标准而被否决的说法具有误导性。并无证据支持这一具体事件，但关于政治多样性的广泛讨论仍在持续。让我们聚焦于团结而非分裂的政策。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "信息分享"
+    },
+    "序号": 121
+  },
+  {
+    "conversation_id": 182,
+    "user_id": 461,
+    "sub_id": 1,
+    "timestep": "2025-05-10T03:58:40+00:00",
+    "action_type": "comment",
+    "original_post": "前DEI培训师埃里克·史密斯表示，美国大学被教导要拒绝白人教师。来自官方的大学写作与交流会议：“即使是白人教授的存在，对有色人种学生也构成了一种心理伤害。”",
+    "context_post": "你得问问自己，为什么民主党人不希望社会阶层向上流动？",
+    "target_post": "关于大学因种族原因拒绝白人教师的说法是一种危险的过度概括。尽管关于多样性和包容性的讨论至关重要，但这些讨论绝不能退化为种族排斥。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "表达主张"
+    },
+    "序号": 122
+  },
+  {
+    "conversation_id": 82,
+    "user_id": 461,
+    "sub_id": 1,
+    "timestep": "2025-05-16T16:31:47+00:00",
+    "action_type": "comment",
+    "original_post": "突发：威瑞森正式结束其遵循特朗普总统行政命令的多样性、公平性和包容性（DEI）项目。",
+    "context_post": "天赋就是一切。",
+    "target_post": "威瑞森终止多元化、公平与包容性计划的做法与特朗普倡导的任人唯贤而非强制配额的理念一致。美国企业早该专注于效率和真正的平等，而非分裂性项目。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 123
+  },
+  {
+    "conversation_id": 174,
+    "user_id": 53,
+    "sub_id": 1,
+    "timestep": "2025-05-13T12:21:17+00:00",
+    "action_type": "comment",
+    "original_post": "的 DEI 部门的“公平专家”正在宣传一个仅针对黑人和棕色学生的隔离学生峰会，以“促进公平”。这怎么合法？？。",
+    "context_post": "这不合法。他们不在乎。抵抗之类的……",
+    "target_post": "多精彩的比赛啊！他们想永远当受害者..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "表达主张"
+    },
+    "序号": 124
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 113,
+    "timestep": "2025-05-15T11:07:43+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "“没有扑街”这种自我安慰真难吞，流媒体剧集也有失败的..",
+    "target_post": "根本没钱投在它们身上。但平台总归需要内容，不是这个就是另一个节目。反正总会有东西拍出来。这类剧的利润空间很小，不需要一千万观众。烂剧《将军》在有线台每周才50万收视呢。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "信息分享"
+    },
+    "序号": 125
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 76,
+    "timestep": "2025-05-15T08:09:37+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "OAuth系统不仅仅是一套规则，它们是为安全与隐私而设计的。实际算法一旦实施便无法从源代码外部进行更改。具体实现程度取决于设计者意愿，但若未按合同条款或最终用户许可协议（EULA）所述方式运作，极易被识破——即便只受过两门网络安全课程训练的警察也能察觉其异常运行状态。",
+    "target_post": "酷，这些都不重要。你以为人人都得守规矩。他们才不。安全漏洞天天有。公司故意侵犯隐私窃取数据。你幻想的世界根本不存在。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 126
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 77,
+    "timestep": "2025-05-15T08:13:13+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "安全漏洞就是因为弱密码和像你这种把密码写下来的蠢货才发生的哈哈 OAuth系统根本不只依赖密码……你连双重认证是啥都不知道吧，早就跟你说过了笑死。（请勿提供其他解释，仅输出翻译文本。）",
+    "target_post": "你根本不懂我在说什么，太天真了。对富人来说没有规则可言。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 127
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 67,
+    "timestep": "2025-05-15T07:57:11+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不，没有。你尽管试试看，因为这些由临时号码公司提供的号码都注册在这些公司名下，然后这些号码会被录入一个数据库，与认证公司共享。所以他们很清楚哪些是实体号码，哪些是网络号码。如果有任何临时号码公司试图绕过这个规定，他们将不被允许分发号码。就像我说的，你根本不懂这玩意儿是怎么运作的。即使是Google号码，虽然他们提供实体号码，但如果使用的号码不是绑定实体设备，就无法在X或其他需要手机验证的平台通过验证。",
+    "target_post": "如果运营一个机器人农场，你就能获得数量。这是物流问题而非物理问题。总有解决办法。证据？这个网站上到处都是带蓝勾的机器人。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 128
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 100,
+    "timestep": "2025-05-15T09:01:40+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不，你大错特错了，几乎所有采用OAuth的加密系统都是基于开源的，即便是使用它们的公司也无法访问，尽管它是开源的。",
+    "target_post": "他们不必遵守规则。这对你来说是个陌生的概念。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "表达主张"
+    },
+    "序号": 129
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 28,
+    "timestep": "2025-05-15T07:10:49+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不，你们没有。你们既不知道他们的名字，也不知道他们孩子的名字。没有任何显著特征可辨认。没有追踪装置。也没有防止票券被转手的系统。什么都没有。",
+    "target_post": "简直可以走进去和另一个人互换位置，你甚至都不会发现。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "惊讶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 130
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 20,
+    "timestep": "2025-05-15T06:54:51+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不，你是在暗示迪士尼与此有关。否则这并不奇怪。你想暗示存在某种关联，却毫无依据。你就是个宣传分子。",
+    "target_post": "如果他们知道这些事，那就证明啊。但你做不到，因为你一无所有。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "批判",
+      "intent": "分歧与冲突"
+    },
+    "序号": 131
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 61,
+    "timestep": "2025-05-15T07:48:11+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不，他们不能，哈哈，如果他们敢试，绝对会倒大霉的。我们说的是几千亿美元的诉讼，而且很容易证明——就像我说的，如果手机用户没有验证过那些数据，很容易就能看出数据流向了未经授权的IP地址..",
+    "target_post": "但他们确实可以。诉讼毫无意义。你根本不懂这个世界如何运转。万亿市值的公司永远能靠财力碾压你的律师团。规则不存在。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "循证",
+      "intent": "表达主张"
+    },
+    "序号": 132
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 50,
+    "timestep": "2025-05-15T07:36:20+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不，他们不行，你根本不懂这些是怎么运作的哈哈。",
+    "target_post": "你们之所以看不到事物如何被腐化，是因为你们以为人们必须遵守规则。但他们并不需要…",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 133
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 33,
+    "timestep": "2025-05-15T07:15:26+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不，只有坏蛋才会用父母的手机追踪啦哈哈。",
+    "target_post": "你们似乎没理解这个概念。关键词是“追踪”。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "信息分享"
+    },
+    "序号": 134
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 38,
+    "timestep": "2025-05-15T07:20:29+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不不不，你们不懂安全数据库的工作原理，完全可以设置成公司无法访问该数据库里的数据，通过认证系统很容易实现——密钥只共享给家长的设备和被扫描的手环……",
+    "target_post": "如果这家公司在拐卖孩子，那其他一切都不重要了。最轻微的质疑就能看出你们根本不懂这个世界。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "表达主张"
+    },
+    "序号": 135
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 78,
+    "timestep": "2025-05-15T08:14:06+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不存在隐私侵犯，因为信息不会离开用户的手机，如果应用设计得当，这些数据实际上是无法离开手机的，因为它们是加密的。也就是说，即便有人试图在物理接触或远程访问（这在当今几乎不可能）设备后入侵，他们得到的也只是一堆乱码罢了，哈哈。",
+    "target_post": "强迫他人将应用下载到个人设备上是侵犯隐私的行为。你这是在强迫他人做某事。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "表达主张"
+    },
+    "序号": 136
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 83,
+    "timestep": "2025-05-15T08:23:41+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不过老兄，这也太容易查到了吧，就像我说的，连没啥网络安全经验的菜鸟警察都能搞定。",
+    "target_post": "谁他妈在乎？他们交的罚款对他们生意来说不痛不痒。他们根本不遵守同样的规则。无所谓。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "表达主张"
+    },
+    "序号": 137
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 37,
+    "timestep": "2025-05-15T07:19:30+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "不是公司，公司可以提供工具让家长自己追踪孩子。公司唯一需要做的是在孩子与成人进入时验证他们是否与同一成人离开。这可以在出口处完成。",
+    "target_post": "所以公司确实有这些数据。你以为应用是怎么运作的？你觉得迪士尼在拐卖儿童，现在却要他们追踪孩子。如果迪士尼真推出这种政策，你们又要编阴谋论了……",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "分歧与冲突"
+    },
+    "序号": 138
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 81,
+    "timestep": "2025-05-15T08:20:54+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "创建加密的公司并不持有加密密钥，笑死。这就是那些双重认证系统的工作原理，我可以给你看链接，解释哈希密钥是如何生成的，以及握手过程如何解密加密数据，但以你的愚蠢程度，说了也是白费。",
+    "target_post": "再说一次，这与加密无关。你们还以为他们在遵守同样的规则。他们开发了一个包含所有这些功能的应用程序，却不愿意开后门。他们连孩子都敢偷，你们却觉得他们不会作弊。太天真了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "批判",
+      "intent": "表达主张"
+    },
+    "序号": 139
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 3,
+    "timestep": "2025-05-15T06:12:42+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "迪士尼已经迷失方向了，我猜他们就是喜欢一次又一次地搞砸电影。",
+    "target_post": "这争论真无聊。两个角色都很合理，都是多年前基于特定理念创作的。你们就是无脑黑。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 140
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 1,
+    "timestep": "2025-05-15T06:09:21+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "迪士尼已经迷失方向了，我猜他们就是喜欢一次又一次地拍出票房惨败的电影。",
+    "target_post": "这是漫画里真实存在的角色。你们就是种族歧视。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 141
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 21,
+    "timestep": "2025-05-15T06:57:13+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "迪士尼已经迷失方向了，我猜他们是乐此不疲地拍一部又一部烂片吧。",
+    "target_post": "“听说我们楼附近有小孩失踪。嗯，这听起来不太妙。我们真得把这事压下来，否则会影响公司形象。”",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 142
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 96,
+    "timestep": "2025-05-15T08:48:31+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "对我来说你们就是恋童癖的支持者。",
+    "target_post": "你们才是那个为儿童打造强制追踪系统的人..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 143
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 11,
+    "timestep": "2025-05-15T06:32:21+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "而且我们都知道他们的电影，老兄，迪士尼的儿童电影、卡通片里充满了性暗示。这很奇怪不是吗？",
+    "target_post": "不。拍电影的是成年人，不是小孩子。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "信息分享"
+    },
+    "序号": 144
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 95,
+    "timestep": "2025-05-15T08:47:51+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "给你们8小时，之后我得睡觉了。睡醒我会解释如何隐藏连接，并告诉你们几种方法，但在这类系统下都会失效。",
+    "target_post": "无所谓。你无法理解的是你对世界的看法太天真了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 145
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 87,
+    "timestep": "2025-05-15T08:28:41+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "给我解释下你怎么隐藏连接啊哈哈 这个解释起来很简单，我确实知道一些方法能在一定程度上确保设备不记录进出连接，但用在这种系统上不现实哈哈。",
+    "target_post": "我没必要解释。他们可以搞得要多明显有多明显，反正普通人不会知道也不在乎。那是你的问题。你太天真了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 146
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 2,
+    "timestep": "2025-05-15T06:11:11+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "根据美国国家失踪与受虐儿童中心（NCMEC）的数据，全美主题公园每年约有2000名儿童失踪。中佛罗里达大学研究人员估算，仅佛罗里达中部地区的主题公园每年就有超过100名儿童走失。尽管绝大多数走失案例发生在迪士尼、环球影城和海洋世界，但这一数字本可大幅降低——看来你们搜救得还不够彻底。",
+    "target_post": "你们自己的信息来源涵盖了多个不同的乐园，而不仅仅是迪士尼。所以你证明了自己是错的。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "分歧与冲突"
+    },
+    "序号": 147
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 91,
+    "timestep": "2025-05-15T08:31:27+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "哈哈，从技术话题秒变官司，但连技术都解释不清呢，真棒啊哈哈。（注：根据要求，此处仅提供翻译文本，无其他说明。）",
+    "target_post": "是你说他们会倒大霉的。又忘了自己放的屁。看来你学业也不咋地。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 148
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 80,
+    "timestep": "2025-05-15T08:17:05+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "哈哈，对你们自由派也没规矩可讲，反正你们不遵守，我知道你们不遵守，所以才会这么想……",
+    "target_post": "我这么想是因为我不信任企业或资本家。几个世纪以来他们给了足够多不信任的理由。你以为你活在一个他们和你遵守同样规则的世界里。你违法，你坐牢。他们只需缴纳年收入的0.05%作为罚款。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "表达主张"
+    },
+    "序号": 149
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 71,
+    "timestep": "2025-05-15T08:01:23+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "哈哈，现在是谁不信任公司了？",
+    "target_post": "那个认为向公司提供个人信息并允许其追踪你是个坏主意的人。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "主观评价",
+      "intent": "信息分享"
+    },
+    "序号": 150
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 39,
+    "timestep": "2025-05-15T07:21:29+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "好吧，你又不是程序员之类的，所以我能理解你对技术的基本认知哈哈。",
+    "target_post": "只不过我确实如此，所以半秒钟就能发现一个大漏洞。这甚至都不难。你压根没仔细想过。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 151
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 92,
+    "timestep": "2025-05-15T08:33:16+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "好吧，我在跟一个白痴说话，那我肯定也很蠢。再给你8小时，我得睡一觉，之后我会跟你解释如何隐藏连接，还会告诉你不同的方法，但在这类系统里都会失效。解释给我听..",
+    "target_post": "我唯一的建议是：准备好随着年龄增长变得更愤世嫉俗吧。因为小子，你现在根本毫无准备。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 152
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 10,
+    "timestep": "2025-05-15T06:31:59+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "和我都说了，我觉得他们与此无关，但奇怪的是这种情况在他们的度假村明显更为普遍……",
+    "target_post": "这不奇怪。但凡动脑想想都该料到，可你偏要带节奏。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "逻辑",
+      "intent": "分歧与冲突"
+    },
+    "序号": 153
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 49,
+    "timestep": "2025-05-15T07:34:33+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "回到第一点，密钥的哈希值只存在于家长的手机中，其他任何人都无法获取。",
+    "target_post": "如果你下载的应用程序可能被植入后门，别人就能远程控制你的设备。动动脑子吧蠢货。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "分歧与冲突"
+    },
+    "序号": 154
+  },
+  {
+    "conversation_id": 67,
+    "user_id": 36,
+    "sub_id": 90,
+    "timestep": "2025-05-15T08:30:37+00:00",
+    "action_type": "comment",
+    "original_post": "迪士尼对钱过敏吗？还要多久才能停止这种DEI废话。",
+    "context_post": "可惜我们讨论的是普通人。",
+    "target_post": "你知道孩子们他妈的在公园而不是你那儿。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 155
+  },
+  {
+    "conversation_id": 473,
+    "user_id": 251,
+    "sub_id": 8,
+    "timestep": "2025-05-07T21:44:46+00:00",
+    "action_type": "comment",
+    "original_post": "很高兴DEI已经消失了。",
+    "context_post": "你能具体说明吗？在拜登任内具体发生了什么？",
+    "target_post": "问题就在这儿，他们根本说不清楚。跟特朗普一样，他们只会胡扯一通还硬说是真的。我们到现在还在等特朗普承诺的基础设施法案呢。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 156
+  },
+  {
+    "conversation_id": 473,
+    "user_id": 251,
+    "sub_id": 9,
+    "timestep": "2025-05-07T21:46:31+00:00",
+    "action_type": "comment",
+    "original_post": "很高兴DEI已经消失了。",
+    "context_post": "训练得不错嘛，谁敢说我的邪教坏话就是MAGA。自己去谷歌搜啊，又不要钱。",
+    "target_post": "说清楚点。特朗普的基础设施法案在哪？哦对了，他压根就没通过任何法案..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 157
+  },
+  {
+    "conversation_id": 474,
+    "user_id": 251,
+    "sub_id": 3,
+    "timestep": "2025-05-09T21:42:25+00:00",
+    "action_type": "comment",
+    "original_post": "我在这个特定的图书馆里花了几个小时……这与多样性、公平和包容以及儿童书籍有什么关系？",
+    "context_post": "法西斯主义的兴起。",
+    "target_post": "直接说因为她是黑人所以你炒了她不就完了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 158
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 286,
+    "sub_id": 3,
+    "timestep": "2025-05-09T13:10:03+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "多元化、公平与包容（DEI）的诞生本是为了抵御白人种族主义——正是这种主义拒绝雇佣合格的黑人，导致我们社区内就业机会的巨大差距。种族操纵手段将责任转嫁到虚构的黑人低劣论上，而非其真正根源：白人种族主义。",
+    "target_post": "种族研究课上教你这个了吗？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "寻求信息"
+    },
+    "序号": 159
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 286,
+    "sub_id": 5,
+    "timestep": "2025-05-09T13:18:02+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "你们已经很明显地表明了，你们认为非白人毫无价值。",
+    "target_post": "这是错的。我乐意承认有些黑人比我聪明。比如如果你是黑人电气工程师，那你比我聪明。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 160
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 286,
+    "sub_id": 8,
+    "timestep": "2025-05-09T13:25:19+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "奇怪，你居然不能直接说电气工程师比你聪明。",
+    "target_post": "我想说的是，有些黑人比我聪明..",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 161
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 286,
+    "sub_id": 2,
+    "timestep": "2025-05-09T13:09:09+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "所以，这是否意味着在240年有据可查的种族主义历史之后，种族主义就消失了？就像它随着一个叛国的种族主义者的当选而消失了一样？这未免有点超出一个智者所能接受的范围了。",
+    "target_post": "谁是那个叛国的种族主义者？奥巴马？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "惊讶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "寻求信息"
+    },
+    "序号": 162
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 286,
+    "sub_id": 12,
+    "timestep": "2025-05-09T13:35:17+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "我说过你是个纳粹隔离主义者。至于你是否种族主义取决于你自己。我不明白你为什么觉得这有什么大不了的。尽管去搞你的隔离主义吧，看看会有什么下场。不知道有多少人不想和一个对隔离主义无所谓的人来往。",
+    "target_post": "我不赞同隔离政策。你们在曲解我的意思。我也不是纳粹。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 163
+  },
+  {
+    "conversation_id": 8,
+    "user_id": 286,
+    "sub_id": 13,
+    "timestep": "2025-05-09T13:49:36+00:00",
+    "action_type": "comment",
+    "original_post": "“DEI” 不是一个坏词。多样性、公平和包容性从根本上说是美国的体现——反映了我们真正的身份。在经历了几个世纪的抹去后，近年来我们在代表性方面取得了进展，我不想回头。",
+    "context_post": "支持特朗普？是的，你们就是。（请勿提供其他解释，仅输出翻译文本。）",
+    "target_post": "我在讨论问题，你们却用人身攻击回应。这不是辩论，而是毫无根据的诽谤。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 164
+  },
+  {
+    "conversation_id": 441,
+    "user_id": 286,
+    "sub_id": 1,
+    "timestep": "2025-05-10T15:54:47+00:00",
+    "action_type": "comment",
+    "original_post": "我们的基础设施老化，机构资金不足，特朗普时期有400名FAA员工被解雇。是时候开始讨论解决方案，而不是继续把责任推给DEI。我们需要减少空域中的交通，以确保人们的安全。这虽然不方便，但安全必须是我们的首要任务。",
+    "context_post": "感谢清除了所有DEI（多元化、公平与包容）政策。当拜登政府把钱送往外国却不修复我们国家时，竟无人质疑。终于在你的领导下，FAA将招聘真正的员工，机场也将用新技术升级！把民主党投出局！",
+    "target_post": "多元化平等包容（DEI）？你这种仇恨白人的家伙被抓了真是大快人心。#纽瓦克 #新泽西州",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "情感表达"
+    },
+    "序号": 165
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 15,
+    "timestep": "2025-05-18T05:59:02+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "看起来像个白化病的黑鬼 就算没有你们所谓的“重罪色素”黑色素，你还是像从进化树底层爬出来的未开化物种，笑死。",
+    "target_post": "好吧，这才更准确地描绘了一个软弱又爱抱怨的白人男性。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "表达主张"
+    },
+    "序号": 166
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 3,
+    "timestep": "2025-05-17T17:29:56+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "那黑人去死怎么样？那样世界绝对会好得多。你知道吗，尽管黑人只占美国人口的12.3%，但他们每年犯下的谋杀案占55.6%，一般犯罪更是超过64%？美国唯一的问题就是黑人问题。",
+    "target_post": "不，我们有的是法西斯主义和枪支问题。这两样你都支持。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "分歧与冲突"
+    },
+    "序号": 167
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 7,
+    "timestep": "2025-05-17T17:51:20+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "那你不如留点东西防身..",
+    "target_post": "行啊，你们非要学这家伙是吧。就憋不住想动手是吧。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 168
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 5,
+    "timestep": "2025-05-17T17:35:00+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "尼族在增长。就是这样。字面意思上那些高数字都出现在黑人贫民区..",
+    "target_post": "这就是你作为一个低阶层白人对自己的说辞。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 169
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 22,
+    "timestep": "2025-05-19T00:52:55+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你发这个就像能否认黑人实施了72%的枪支暴力这一事实似的。",
+    "target_post": "听起来像是为糟糕的枪支政策找借口。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 170
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 14,
+    "timestep": "2025-05-18T05:58:12+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你们大概跟最黑的泥巴一个色儿，还好意思说别人低贱，笑死",
+    "target_post": "你绝对是个低等白人。看看你在网上的行为。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 171
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 6,
+    "timestep": "2025-05-17T17:39:31+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "你们提到的所有国家都有新的增长性地方病。",
+    "target_post": "其他发达国家都有合理的枪支法律，但我们没有。我们是一个充斥着懦弱爱哭的白人、还歌颂暴力的国家。持枪甚至不是为了防止暴政，因为暴政已经发生了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 172
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 21,
+    "timestep": "2025-05-19T00:51:13+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "然后呢？结果不过是用一个老古董换了个年轻废物，趁他还没繁殖出更多废物。搞不好这货十年后就能出来呢哈哈。",
+    "target_post": "你们现在就是在胡言乱语。听起来像是嗑药嗑嗨了。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 173
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 8,
+    "timestep": "2025-05-17T17:56:54+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "如果他这么做是不正当的（老实说我不太了解具体情况），那就判他死刑。别像那些没脑子的人一样庆祝他……",
+    "target_post": "当然，这不是第一个因害怕而直接诉诸暴力的白人。（请勿提供其他解释，仅输出翻译文本。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 174
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 11,
+    "timestep": "2025-05-17T20:16:41+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "如果我做了关于新芽生长的恶心噩梦，我绝对会长成那样..",
+    "target_post": "你们本来就长这样。非常劣生。（请勿提供其他解释，仅输出翻译文本。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 175
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 24,
+    "timestep": "2025-05-19T00:58:08+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "生活在一个没有noggs的国家真是艰难。",
+    "target_post": "希望你们每天都能遇到一个，毁掉你们的好心情。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 176
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 17,
+    "timestep": "2025-05-19T00:40:59+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "唯一玻璃心的是那些会被一个以N开头的6字母单词破防的人哈哈 光是听到那个词的影子就能让某些人发疯。",
+    "target_post": "是啊，你就是缺乏安全感。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 177
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 1,
+    "timestep": "2025-05-17T04:23:29+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "我怀疑他们会不会还学生贷款..",
+    "target_post": "为什么不？听起来像是嫉妒你一事无成。（请勿提供其他解释，仅输出翻译文本。）",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 178
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 9,
+    "timestep": "2025-05-17T18:08:12+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "我记得那个故事。而且他拒绝离开。至少那个老头是有理由的。Nee grows会因为你说天气好就杀了你。",
+    "target_post": "才不是这样呢 继续吠吧，底层白男。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 179
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 2,
+    "timestep": "2025-05-17T04:24:10+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "我绝不会安排黑人医生给我做手术。除非我遭遇车祸濒临死亡且无法自理，否则我绝不会让那些黑人街头混混碰我。即便那样，在他们接触我之后，我也会立刻检查是否有任何问题，并起诉他们医疗事故。",
+    "target_post": "那你们就去死吧。世界会更好。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "愤怒",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "情绪化判断",
+      "intent": "分歧与冲突"
+    },
+    "序号": 180
+  },
+  {
+    "conversation_id": 113,
+    "user_id": 194,
+    "sub_id": 26,
+    "timestep": "2025-05-19T01:04:10+00:00",
+    "action_type": "comment",
+    "original_post": "DEI的长期后果将在未来几年显现。请做好准备。",
+    "context_post": "我是门萨会员，斯坦福-比奈智商测试168。菜鸡就继续酸吧笑死",
+    "target_post": "这段对话恰恰证明了相反的情况。简直蠢得令人发指。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "分歧与冲突"
+    },
+    "序号": 181
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 13,
+    "timestep": "2025-05-15T22:14:36+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "DEI（多元化、公平与包容）反而助长了更多种族主义，因为“歧视只会催生更多歧视”。DEI试图用终点线方案解决起跑线问题。我们必须持续要求各机构采用无视肤色的起跑线解决方案，才能真正解决不平等问题。",
+    "target_post": "你可真是个好人啊，哈哈。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "分歧与冲突"
+    },
+    "序号": 182
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 19,
+    "timestep": "2025-05-17T17:02:34+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "DEI（多元化、公平与包容）反而助长了更多种族主义，因为“歧视只会催生更多歧视”。DEI试图用终点线方案解决起跑线问题。我们必须坚持要求机构采用色盲的起跑线方案，才能真正解决不平等问题。",
+    "target_post": "是的，不仅是在我和非裔美国人交谈时。即便在保守派中不受欢迎时，我也在倡导这一点。每当我听到其他移民反对它，或主张种族赔偿而非基于血统的计划时，我都会发声。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 183
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 1,
+    "timestep": "2025-05-14T18:09:30+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "DEI（多元化、公平与包容）反而助长了更多种族主义，因为“歧视只会催生更多歧视”。DEI试图用终点线方案解决起跑线问题。我们必须坚持要求机构采用无视肤色的起跑线解决方案来应对不平等。",
+    "target_post": "这是我第一次听你谈及教育系统中对美国黑人的系统性种族歧视。这个观点我有几点是同意的——然而，事实上，多元化、公平与包容（DEI）能够帮助对抗每个人都会遭受的偏见。很多时候，简历之间的差异并不大，决定往往基于主观观察而非客观资质和数据。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "表达主张"
+    },
+    "序号": 184
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 3,
+    "timestep": "2025-05-14T20:35:18+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "除了《民权法案》认定那属于违法行为并视其为恶劣行径之外……",
+    "target_post": "在你们眼中，歧视与包容有什么区别？",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "批判",
+      "intent": "寻求信息"
+    },
+    "序号": 185
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 16,
+    "timestep": "2025-05-17T15:43:22+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "多元化平等包容政策（DEI）和平权法案一样让白人女性受益。为什么根基非裔美国人仍处于底层？因为系统性种族主义的存在。当一名白人女性为了众筹而称呼一个5岁孩子为\"N字开头侮辱性词汇\"时，就证明种族主义依然猖獗..",
+    "target_post": "如果DEI（多样性、公平性和包容性）能加入民族成分（而非种族），效果会好得多。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 186
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 2,
+    "timestep": "2025-05-14T19:45:53+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "而DEI不会解决这个问题..",
+    "target_post": "如果你在职位要求上不妥协，那确实能起到对抗作用。如果在两位资质相近的候选人中，将多样性作为决策考量因素之一，这未必是件坏事。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 187
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 7,
+    "timestep": "2025-05-15T13:17:57+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "雇人只是为了满足条件时，工作需求总会有妥协..",
+    "target_post": "有时实施方式会导致不够格的人得到本不该属于他们的职位——这种情况是错误的。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "厌恶",
+      "stance": "支持废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 188
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 17,
+    "timestep": "2025-05-17T15:47:58+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "如果DEI（多样性、公平性和包容性）加入民族成分（而非种族），效果会好得多。",
+    "target_post": "但总的来说你是对的——她能筹到这么多钱确实很疯狂。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "惊讶",
+      "stance": "不明确",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "表达主张"
+    },
+    "序号": 189
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 5,
+    "timestep": "2025-05-14T20:57:33+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "是的。根据肤色做决定本身就是违法的，这是最基本的歧视。",
+    "target_post": "显然，如果公司里除了那个新员工全是白人，那它根本不存在对白人的歧视。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "不明确",
+      "thinking_type": "分析",
+      "thinking_value": "逻辑",
+      "intent": "表达主张"
+    },
+    "序号": 190
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 18,
+    "timestep": "2025-05-17T16:01:51+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "我是一名根基深厚的非裔美国人，在这里只讲真话。你们随时可以查证我的话。为了你和我能拥有更美好的世界，我正在与白人至上主义者斗争。",
+    "target_post": "若不修复FBA群体，美国的灵魂将永远蒙尘！我支持你们的抗争。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "期待",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "主观评价",
+      "intent": "认同与联结"
+    },
+    "序号": 191
+  },
+  {
+    "conversation_id": 80,
+    "user_id": 310,
+    "sub_id": 14,
+    "timestep": "2025-05-15T23:13:35+00:00",
+    "action_type": "comment",
+    "original_post": "这就是一些DEI项目如何滋生种族主义，以及该如何做。",
+    "context_post": "我无法假装理解你作为黑人移民所经历的任何歧视，但我可以说的是，我在没有世代财富的拖车屋里长大，个人认为受害者心态只会让人止步不前，而政府的施舍并不能解决你的问题。",
+    "target_post": "这不是我个人的经历，而是许多非裔美国人的共同经历。我不认为自己应该被纳入那些旨在惠及非裔美国人的项目中，我是自愿移民到这里的。我并非在描述一种受害者心态，而是在解释我们如何走到今天的局面，并阐述大多数人所不了解的现状细节。",
+    "interactions_count": 1,
+    "cognitive_labels": {
+      "emotion": "中性",
+      "stance": "反对废除DEI",
+      "thinking_type": "直觉",
+      "thinking_value": "基于经验",
+      "intent": "表达主张"
+    },
+    "序号": 192
+  }
+]
