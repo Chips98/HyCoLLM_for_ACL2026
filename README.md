@@ -68,6 +68,17 @@ CognitiveBench is the first benchmark with unified annotations across four cogni
 
 All dimensions fall within moderate to substantial agreement range (0.51–0.79), indicating reliable annotations for multi-dimensional cognitive analysis.
 
+### Ethical Statement & Content Warning
+The CognitiveBench dataset contains raw user-generated content sourced from public social media platforms. Given the nature of the topics covered—such as the **U.S. Election (UE)** and **Diversity, Equity, and Inclusion (DEI)**—users should be aware that the dataset may contain:
+* Sensitive Language: Including racial bias, sexism, and political polarization.
+* Offensive Content: Potentially harmful or toxic speech reflective of real-world social media discourse.
+
+Disclaimer:
+1. The views expressed in the dataset belong solely to the original authors and do not reflect the views of the project contributors or their affiliated institutions.
+2. While we have applied systematic filtering (e.g., removing low-signal utterances) and ensured high-quality expert annotation, we maintain the original tone for research integrity.
+3. All data has been strictly anonymized to protect user privacy.
+4. Users are encouraged to apply application-level safety mechanisms when using models trained on this data.
+
 ---
 
 ## Code Structure
